@@ -1,0 +1,7 @@
+To the project I added the functionality of having a heart asset when the sheep get hit. This heart appears when a hay hits a sheep and it goes up while rotating and decreasing his size. 
+
+I also added three different sound effects, one when we have the hay shoot, another one when the sheep gets hit and the last one when a sheep drops.
+
+In addition, I added a counter to know the saved and the dropped sheep with a UI. For doing this, I needed to keep the score of the hit and the dropped sheep. The counter of the dropped sheep increases in pairs, and when it arrives to 6, the game ends. 
+
+I have also a title screen, where the menu appears with two different buttons, one for playing and the other one for leaving the game, that get lighter when the cursor is on them. Finally, I also implemented the feature that allows you to change the colour of the hay machine in the title scene, to play with a blue, pink or yellow machine.
